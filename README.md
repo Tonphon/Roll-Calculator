@@ -16,7 +16,7 @@ The Roll Calculator is a program that helps you calculate the chance of getting 
 2. Run the `roll_calculator.exe` file.
 
 Note: You do not need to have Python installed on your machine to use the executable version.
-
+Python file is included in case you want to run in Python.
 ## Usage
 - Enter the number of rolls and choose the calculation method.
 - Click the "Calculate" button to view the result.
